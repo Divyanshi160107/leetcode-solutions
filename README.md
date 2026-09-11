@@ -4,4 +4,4 @@ My solutions to LeetCode problems, solved in Java, to track progress and maintai
 
 ## 🗂 Structure
 
-Solutions are organized by difficulty and numbered by problem ID:
+Solutions are organized and numbered by problem ID
